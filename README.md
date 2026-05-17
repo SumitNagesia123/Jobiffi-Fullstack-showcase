@@ -88,6 +88,20 @@ The original platform was developed collaboratively. This showcase highlights th
 - Zustand
 - Node.js
 - Express.js
+
+- # UI Showcase
+
+## Homepage
+![Homepage](screenshots/image.png)
+
+## Responsive Navbar
+![Navbar](screenshots/image.png)
+
+## Mobile UI
+![Mobile UI](screenshots/image.png)
+
+## Carousel System
+![Carousel](screenshots/image.png)
 - MongoDB
 - Framer Motion
 - Git & GitHub
